@@ -9,4 +9,4 @@ print(f"Os números originais: Número 1: {num1}, Número 2: {num2} e por fim N�
 
 num1,num2,num3 = num2,num3,num1
 
-print(f"Os números originais: Número 1: {num1}, Número 2: {num2} e por fim Número 3: {num3}")
+print(f"Os números alterados: Número 1: {num1}, Número 2: {num2} e por fim Número 3: {num3}")
